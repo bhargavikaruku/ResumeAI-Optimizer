@@ -16,12 +16,8 @@ An AI Powered web application that analyzes your resume against Job Description 
 * **pdfjs-dist** : PDF Text Extraction
 * **recharts** : Data visualization for score chart
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1-xVtNn2qgJvhQib1saj4SynesBj9PhaF
-
+# View the deployed application on github pages using the link
+<https://bhargavikaruku.github.io/ResumeAI-Optimizer/>
 
 ## Run Locally
 
