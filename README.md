@@ -1,3 +1,4 @@
+<img width="1577" height="812" alt="ResumeOptimizer" src="https://github.com/user-attachments/assets/e550828b-f8b7-430c-bfea-1b6b2899eaf7" />
 # ResumeAI Optimizer
 An AI Powered web application that analyzes your resume against Job Description and provides optimization suggestions.
 
@@ -19,6 +20,7 @@ An AI Powered web application that analyzes your resume against Job Description 
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/drive/1-xVtNn2qgJvhQib1saj4SynesBj9PhaF
+
 
 ## Run Locally
 
