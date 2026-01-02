@@ -1,0 +1,5 @@
+{
+  "name": "ResumAI Optimizer",
+  "description": "An AI-powered resume optimization tool that analyzes your CV against specific job descriptions to increase your chances of getting hired.",
+  "requestFramePermissions": []
+}
