@@ -8,8 +8,7 @@ export default defineConfig(({ mode }) => {
     // IMPORTANT: Replace 'your-repo-name' with your actual GitHub repository name
     // Example: If your repo is github.com/username/resumai-optimizer
     // Then use: base: '/resumai-optimizer/'
-    base: '/your-repo-name/',
-    
+    base: '/ResumeAI-Optimizer/',    
     server: {
       port: 3000,
       host: '0.0.0.0',
