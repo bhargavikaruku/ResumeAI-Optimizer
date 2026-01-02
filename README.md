@@ -1,4 +1,4 @@
-<img width="1577" height="812" alt="ResumeOptimizer" src="https://github.com/user-attachments/assets/e550828b-f8b7-430c-bfea-1b6b2899eaf7" />
+<img width="1581" height="885" alt="image" src="https://github.com/user-attachments/assets/9475d6cc-dbcd-4a12-90c5-f3f89c5313b2" />
 
 # ResumeAI Optimizer
 An AI Powered web application that analyzes your resume against Job Description and provides optimization suggestions.
